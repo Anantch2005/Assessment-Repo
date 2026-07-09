@@ -1,4 +1,4 @@
-# AWS DevOps Engineer Internship Assignment
+# AWS DevOps Assessment
 
 ## Objective
 
